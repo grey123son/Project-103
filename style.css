@@ -5,6 +5,8 @@ body{
     background-color: darkgray;
     border-radius: 20px;
     border-color: rgb(59, 59, 59);
+    width: 120px;
+    height: 40px;
 }
 #identify{
     background-color:darkslategray;
